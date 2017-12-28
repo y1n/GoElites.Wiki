@@ -1,5 +1,5 @@
-## GoElites features
 ### How it works
+
 GoElites comes on *All-In-One* basis, which means that everything that we believe player needs in-game is included in one package and is loaded without any additional settings required. Every module, however, is highly customizable and can be adjusted in accordance with user's preferences using in-game menu. Every module can also be disabled. This allows us to keep GoElites easy-to-setup and easy-to-use without taking a toll on precious CPU and RAM.
 
 ### Default hotkeys
@@ -7,15 +7,15 @@ GoElites comes on *All-In-One* basis, which means that everything that we believ
 
 | Key | Action |
 |--|--|
-| **Left Shift** | Open GoElites menu |
-| **Spacebar** | Combo |
-| **X** | Lasthit |
-| **C** | Mixed |
-| **V** | Lane Clear |
-| **Z** | Flee |
-| **NUM 1** | Block move in Combo |
-| **F9** | Reload GoElites |
-| **Left Mouse Button** | *On enemy champion*: focus selected target; *On anything else*: remove target selection |
+| **Left Shift** | Open GoElites menu. |
+| **Spacebar** | Combo. |
+| **X** | Lasthit. |
+| **C** | Mixed. |
+| **V** | Lane Clear. |
+| **Z** | Flee. |
+| **NUM 1** | Block move in Combo. |
+| **F9** | Reload GoElites. |
+| **Left Mouse Button** | *On enemy champion*: focus selected target; *On anything else*: remove target selection. |
 
 ### Visuals
 
@@ -23,11 +23,11 @@ GoElites comes on *All-In-One* basis, which means that everything that we believ
 |--|--|
 | **Disable all drawings** | Hides all the GoElites-related drawings, including text, awareness, circles, etc. |
 | **Tower ranges** | Displays tower ranges when your champion is near the tower, just as in League of Legends tutorial.|
-| **Zoom Hack** | Allows you to lift zoom limitations (*does not change zoom by itself; zoom is adjusted via default key set in League of Legends menu*) |
-| **Glow Enabled** | Enables the use of glow. Needs to be enabled in order for other glow drawings to be displayed |
-| **Glow My Hero** | Displays a glow around your hero for better clarity on battlefield |
-| **Glow Minions** | Displays a glow around minions which can be last-hitted |
-| **Glow Selected Target** | Displays a glow around the target selected to be focused |
+| **Zoom Hack** | Allows you to lift zoom limitations (*does not change zoom by itself; zoom is adjusted via default key set in League of Legends menu*). |
+| **Glow Enabled** | Enables the use of glow. Needs to be enabled in order for other glow drawings to be displayed. |
+| **Glow My Hero** | Displays a glow around your hero for better clarity on battlefield. |
+| **Glow Minions** | Displays a glow around minions which can be last-hitted. |
+| **Glow Selected Target** | Displays a glow around the target selected to be focused. |
 
 ### Skin Changer
 
@@ -69,7 +69,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | Option | Purpose |
 |--|--|
 | **Enable selected target focus** | Allows you to choose the target you're willing to focus with the Left Mouse Button click. Put the target on top of the priority list. |
-| **ONLY selected target** | Forces Orbwalker to attack only selected target, ignoring other champions |
+| **ONLY selected target** | Forces Orbwalker to attack only selected target, ignoring other champions. |
 | **Focus important buffs** | Forces Orbwalker to focus champions who carry red/blue buffs over champions who don't |
 | **Modes**: Auto | Chooses target depending on the mix of criterias, will also focus targets who are =<30% HP.|
 | **Modes**: Low HP | Chooses the lowest HP target to be focused first. |
@@ -99,7 +99,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Drawings**: Hold area | Displays hold area radius drawing. |
 | **Advance**: WindUp time | Sets a time in milliseconds before your next autoattack's executed. |
 | **Advance**: Auto adjust LastHit | TBA |
-| **Advance**: Attack plants | Toggles orbwalker to attack plants |
+| **Advance**: Attack plants | Toggles orbwalker to attack plants. |
 
 ### Leveler
 
@@ -140,7 +140,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Humanizer settings**: Spell Detection Delay | Sets a delay in milliseconds before Evade will start to dodge the skillshot. |
 | **Humanizer settings**: Maximum angle | TBA |
 | **Humanizer settings**: Dont Dodge If Alt-Tab | Disables Evade from execution when League of Legends window is not active. |
-| **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen |
+| **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen. |
 | **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | TBA |
 | **Humanizer settings**: Ignore FOW Exit | TBA | 
 | **Humanizer settings**: Minimal Visiblity Time | TBA |

@@ -8,11 +8,11 @@ In case you need any help, please jump to our [Forum][Forum] or [Discord Server]
 
 ##Content
 - Principles
-	- [Community Guidelines](Community Guidelines.md)
-	- [Support Guidelines](Support Guidelines.md)
+	- [Community Guidelines](Principles/Community Guidelines.md)
+	- [Support Guidelines](Principles/Support Guidelines.md)
 - Getting Started
-	- [Installing GoElites](Installation.md)
-	- [Features Explained](Features.md)
+	- [Installing GoElites](Getting Started/Installation.md)
+	- [Features Explained](Getting Started/Features.md)
 - Troubleshooting
 	- [Permissions System](Permissions System.md)
 	- [JSON Explanations](JSON Explanations.md)
