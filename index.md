@@ -14,10 +14,9 @@ In case you need any help, please jump to our [Forum][Forum] or [Discord Server]
 	- [Installing GoElites](Getting Started/Installation.md)
 	- [Features Explained](Getting Started/Features.md)
 - Troubleshooting
-	- [Permissions System](Permissions System.md)
-	- [JSON Explanations](JSON Explanations.md)
-	- [Custom Reactions](Custom Reactions.md)
-	- [Placeholders](Placeholders.md)
+	- [How to report an issue](Troubleshooting/Troubleshooting Report Guide.md)
+	- [Website Support](Website Troubleshooting.md)
+	- [Application Support](Application Troubleshooting.md)
 - [Frequently Asked Questions](Frequently Asked Questions.md)
 - [Contribution Guide](Contribution Guide.md)
 
