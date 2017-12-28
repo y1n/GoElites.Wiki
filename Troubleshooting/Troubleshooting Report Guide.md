@@ -7,6 +7,7 @@ But before you submit your report, please make sure that you're aquainted with t
 ## Troubleshooting Report Guidelines
 
 First of all, please check out [Troubleshooting Guides](https://goelites.net/index.php?/forum/35-general-assistance/&do=add) section. If you couldn't find a solution to your issue there, try using forum search ([where?](https://s.put.re/zvYmhVo.png)) and wiki search ([where?](https://s.put.re/nXLET4e.png)). There is a very high chance that the solution to your issue was already posted before. If you didn't find the information you need, please submit a [Troubleshooting Report](https://goelites.net/index.php?/forum/35-general-assistance/&do=add). Here is the list of information we would like you to provide in advance: 
+
 1. **Error logs** (*if there were any*). This will help us identify whether your issue caused by required software malfunction or the loader error.
 2. **The way to reproduce the issue**. If there is some specific way to cause the error to appear - please tell us and we will have more information on whether the issue is on our side or on your.
 3. **What possible solutions have you already tried in order to fix it yourself** (*if you have*). It will help us discard some steps we would have suggested.
