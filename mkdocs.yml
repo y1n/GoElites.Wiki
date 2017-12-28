@@ -1,4 +1,4 @@
-site_name: NadekoBot
+site_name: GoElites Wiki
 repo_url: https://github.com/y1n/GoElites.Wiki
 pages:
 - Home: index.md
@@ -6,7 +6,7 @@ pages:
     - Community Guidelines: Community Principles/Community Guidelines.md
     - Support Guidelines: Community Principles/Support Guidelines.md
 - Getting Started:
-    - Installation: Getting Started/Installation.md
+    - Installing GoElites: Getting Started/Installation.md
     - Features: Getting Started/Features.md
     - FAQ: Getting Started/FAQ.md
 - Troubleshooting:
@@ -14,4 +14,12 @@ pages:
     - Website Troubleshooting: Troubleshooting/Website Troubleshooting.md
     - Application Troubleshooting: Troubleshooting/Application Troubleshooting.md
 
-theme: readthedocs
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
