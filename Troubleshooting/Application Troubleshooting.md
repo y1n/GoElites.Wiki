@@ -1,4 +1,5 @@
-Here is a list of most known issues which may occur during the use of GoElites application and solutions to them.
+*Here is a list of most known issues which may occur during the use of GoElites application and solutions to them*.
+
 | Issue | Solution |
 |--|--|
 | **The loader won't start!** | Make sure you have correctly installed all of the prerequisite software mentioned in [Installation](./Getting Started/Installation.md) instructions. |

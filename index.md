@@ -1,12 +1,10 @@
-#GoElites Wiki
+**Welcome to the GoElites.Wiki**! [[Forum][GoElites Forum]] [[Discord][Discord Server]]
 
-In order to join our Discord server, please click the link below:
+We hope it serves as a reliable source of information regarding our product and the community. If something of your concern is not answered somewhere here yet, please reach us out using either our forum or Discord channel!
 
-[![img][img]][Discord Server]
 
-In case you need any help, please jump to our [Forum][Forum] or [Discord Server][Discord Server], where we can provide support.
 
-##Content
+## Content
 - Principles
 	- [Community Guidelines](Principles/Community Guidelines.md)
 	- [Support Guidelines](Principles/Support Guidelines.md)
@@ -18,8 +16,9 @@ In case you need any help, please jump to our [Forum][Forum] or [Discord Server]
 	- [Website Support](Website Troubleshooting.md)
 	- [Application Support](Application Troubleshooting.md)
 - [Frequently Asked Questions](Frequently Asked Questions.md)
-- [Contribution Guide](Contribution Guide.md)
 
-[img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
+[Discord Image]: https://s.put.re/w7jWWWy.png
+[GoElites Image]: https://s.put.re/8cxQDjU.png
 [Discord Server]: https://discord.gg/m7RctYk
+[GoElites Forum]: https://goelites.net
 [Forum]: https://goelites.net

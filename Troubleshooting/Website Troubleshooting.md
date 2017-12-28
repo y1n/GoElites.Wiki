@@ -1,4 +1,5 @@
-Here is the list of known questions which may arise while using our website and answers to them:
+*Here is the list of known questions which may arise while using our website and answers to them*:
+
 | Question | Answer |
 |--|--|
 | **I cannot download GoElites from a website**! | You have to be logged in before you can use a link to download the GoElites Loader. |
