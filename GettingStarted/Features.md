@@ -98,7 +98,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Drawings**: Draw player range | Displays your champion attack range. |
 | **Drawings**: Hold area | Displays hold area radius drawing. |
 | **Advance**: WindUp time | Sets a time in milliseconds before your next autoattack's executed. |
-| **Advance**: Auto adjust LastHit | TBA |
+| **Advance**: Auto adjust LastHit | Automatically adjusts WindUp time according to your ping. |
 | **Advance**: Attack plants | Toggles orbwalker to attack plants. |
 
 ### Leveler
@@ -124,8 +124,8 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | Option | Purpose |
 |--|--|
 | **Config**: Collision Mode | Enables skillshot collision check. Can be set to check minion, champion collision or both. |
-| **Config**: Block Spells Mode | TBA |
-| **Config**: Block Attacks Mode | TBA |
+| **Config**: Block Spells Mode | Enables Evade to use spells that block skillshots instead of dodging. |
+| **Config**: Block Attacks Mode | Enables Evade to use skills that block auto-attack instead of dodging (e.g. *Pantheon Passive*).  |
 | **Config**: Force Fastest Point | Toggles Evade to always choose the fastest route to dodge the spell, disregarding other conditions. |
 | **Config**: Reaction time | Sets a delay before Evade will dodge the spell. |
 | **Config**: IgnoreReactionTime | Toggles Evade to ignore the set reaction time. |
@@ -138,10 +138,10 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Evading spells**: SpellName | Enables the use of SpellName to dodge skillshots if cannot dodge by walking. Danger level is a value that the skillshot needs to have in order to make Evade use SpellName to dodge it. |
 | **Spells**: SpellName | Toggles Evade to dodge certain skillshots. Danger level can be adjusted here. Even if spell is disabled, drawings will still be shown unless disabled aswell. |
 | **Humanizer settings**: Spell Detection Delay | Sets a delay in milliseconds before Evade will start to dodge the skillshot. |
-| **Humanizer settings**: Maximum angle | TBA |
+| **Humanizer settings**: Maximum angle | Sets the maximum angle degree between your waypoint route and dodging route. |
 | **Humanizer settings**: Dont Dodge If Alt-Tab | Disables Evade from execution when League of Legends window is not active. |
 | **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen. |
-| **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | TBA |
+| **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | Disables dodging when your champion is not on the screen. |
 | **Humanizer settings**: Ignore FOW Exit | TBA | 
 | **Humanizer settings**: Minimal Visiblity Time | TBA |
 | **Drawing settings**: Line Width | Sets the width of Evade drawings' lines. |
