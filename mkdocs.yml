@@ -15,4 +15,12 @@ pages:
     - Website Support: Troubleshooting/WebsiteTroubleshooting.md
     - Application Support: Troubleshooting/ApplicationTroubleshooting.md
     
-theme: readthedocs
+theme:
+  name: 'readthedocs'
+  language: 'en'
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'

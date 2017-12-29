@@ -1,79 +1,73 @@
-*Here is the list of currently supported champions*:
-
-| Champion name | Role | Forum page |
-|--|--|--|
-| 
-
 *Here is the list of currently supported champions. To keep track of newly added champions, please follow the #changelog channel on our Discord*.
 
 ---
 ### ADC
 | Champion name | Forum page |
 |--|--|
-| Ashe | [Ashe] |
-| Caitlyn | [Caitlyn] |
-| Corki | [Corki] |
-| Draven | [Draven] |
-| Ezreal | [Ezreal] |
-| Jhin | [Jhin] |
-| Jinx | [Jinx] |
-| Kalista | [Kalista] |
-| Kog`Maw | [KogMaw] |
-| Lucian | [Lucian] | 
-| Miss Fortune | [Miss Fortune] |
-| Sivir | [Sivir] |
-| Tristana | [Tristana] | 
-| Twitch | [Twitch] |
-| Varus | [Varus] |
-| Vayne | [Vayne] | 
-| Xayah | [Xayah] |
+| Ashe | [📜][Ashe] |
+| Caitlyn | [📜][Caitlyn] |
+| Corki | [📜][Corki] |
+| Draven | [📜][Draven] |
+| Ezreal | [📜][Ezreal] |
+| Jhin | [📜][Jhin] |
+| Jinx | [📜][Jinx] |
+| Kalista | [📜][Kalista] |
+| Kog`Maw | [📜][KogMaw] |
+| Lucian | [📜][Lucian] | 
+| Miss Fortune | [📜][Miss Fortune] |
+| Sivir | [📜][Sivir] |
+| Tristana | [📜][Tristana] | 
+| Twitch | [📜][Twitch] |
+| Varus | [📜][Varus] |
+| Vayne | [📜][Vayne] | 
+| Xayah | [📜][Xayah] |
 
 ### MID
 | Champion name | Forum page |
 |--|--|
-| Ahri | [Ahri] |
-| Brand | [Brand] |
-| Jayce | [Jayce] |
-| Karthus | [Karthus] |
-| Kayle | [Kayle] |
-| Kog'Maw | [KogMaw] |
-| Orianna | [Orianna] |
-| Syndra | [Syndra] |
-| Twisted Fate | [Twisted Fate] |
-| Vel'Koz | [VelKoz] |
-| Viktor | [Viktor] |
-| Xerath | [Xerath] |
-| Yasuo | [Yasuo] |
-| Zed | [Zed] |
-| Zoe | [Zoe] |
+| Ahri | [📜][Ahri] |
+| Brand | [📜][Brand] |
+| Jayce | [📜][Jayce] |
+| Karthus | [📜][Karthus] |
+| Kayle | [📜][Kayle] |
+| Kog'Maw | [📜][KogMaw] |
+| Orianna | [📜][Orianna] |
+| Syndra | [📜][Syndra] |
+| Twisted Fate | [📜][Twisted Fate] |
+| Vel'Koz | [📜][VelKoz] |
+| Viktor | [📜][Viktor] |
+| Xerath | [📜][Xerath] |
+| Yasuo | [📜][Yasuo] |
+| Zed | [📜][Zed] |
+| Zoe | [📜][Zoe] |
 
 ### TOP
 | Champion name | Forum page |
 |--|--|
-| Jayce | [Jayce] |
-| Kayle | [Kayle] |
-| Teemo | [Teemo] |
-| Urgot | [Urgot] |
-| Xin Zhao | [Xin Zhao] |
-| Yasuo | [Yasuo] | 
+| Jayce | [📜][Jayce] |
+| Kayle | [📜][Kayle] |
+| Teemo | [📜][Teemo] |
+| Urgot | [📜][Urgot] |
+| Xin Zhao | [📜][Xin Zhao] |
+| Yasuo | [📜][Yasuo] | 
 
 ### JUNGLER
 | Champion name | Forum page |
 |--|--|
-| Kayle | [Kayle] |
-| Kindred | [Kindred] | 
-| Nasus | [Nasus] |
-| Xin Zhao | [Xin Zhao] | 
+| Kayle | [📜][Kayle] |
+| Kindred | [📜][Kindred] | 
+| Nasus | [📜][Nasus] |
+| Xin Zhao | [📜][Xin Zhao] | 
 
 ### SUPPORT
 | Champion name | Forum page |
 |--|--|
-| Blitzcrank | [Blitzcrank] |
-| Brand | [Brand] |
-| Leona | [Leona] |
-| Lulu | [Lulu] |
-| Thresh | [Thresh] |
-| Vel'Koz | [VelKoz] |
+| Blitzcrank | [📜][Blitzcrank] |
+| Brand | [📜][Brand] |
+| Leona | [📜][Leona] |
+| Lulu | [📜][Lulu] |
+| Thresh | [📜][Thresh] |
+| Vel'Koz | [📜][VelKoz] |
 
 [Ahri]: https://goelites.net/index.php?/topic/391-ahri/
 [Ashe]: https://goelites.net/index.php?/topic/4-ashe/
