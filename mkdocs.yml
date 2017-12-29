@@ -7,12 +7,12 @@ pages:
     - Support Guidelines: CommunityPrinciples/SupportGuidelines.md
 - Getting Started:
     - Installing GoElites: GettingStarted/Installation.md
-    - Features: GettingStarted/Features.md
+    - Features Explained: GettingStarted/Features.md
     - Supported Champions: GettingStarted/SupportedChampions.md
     - FAQ: Getting Started/FAQ.md
 - Troubleshooting:
     - How to submit a support ticket: Troubleshooting/TroubleshootingReportGuide.md
-    - Website Troubleshooting: Troubleshooting/WebsiteTroubleshooting.md
-    - Application Troubleshooting: Troubleshooting/ApplicationTroubleshooting.md
+    - Website Support: Troubleshooting/WebsiteTroubleshooting.md
+    - Application Support: Troubleshooting/ApplicationTroubleshooting.md
     
 theme: readthedocs

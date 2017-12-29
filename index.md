@@ -6,19 +6,14 @@ We hope it serves as a reliable source of information regarding our product and 
 
 ## Content
 - Principles
-	- [Community Guidelines](Principles/CommunityGuidelines.md)
-	- [Support Guidelines](Principles/SupportGuidelines.md)
+	- [Community Guidelines](CommunityPrinciples/CommunityGuidelines.md)
+	- [Support Guidelines](CommunityPrinciples/SupportGuidelines.md)
 - Getting Started
-	- [Installing GoElites](Getting Started/Installation.md)
-	- [Features Explained](Getting Started/Features.md)
+	- [Installing GoElites](GettingStarted/Installation.md)
+	- [Features Explained](GettingStarted/Features.md)
+	- [Supported Champions](GettingStarted/SupportedChampions.md)
+	- [FAQ](Getting Started/FAQ.md)
 - Troubleshooting
 	- [How to report an issue](Troubleshooting/TroubleshootingReportGuide.md)
-	- [Website Support](WebsiteTroubleshooting.md)
-	- [Application Support](ApplicationTroubleshooting.md)
-- [Frequently Asked Questions](FrequentlyAskedQuestions.md)
-
-[Discord Image]: https://s.put.re/w7jWWWy.png
-[GoElites Image]: https://s.put.re/8cxQDjU.png
-[Discord Server]: https://discord.gg/m7RctYk
-[GoElites Forum]: https://goelites.net
-[Forum]: https://goelites.net
+	- [Website Support](Troubleshooting/WebsiteTroubleshooting.md)
+	- [Application Support](Troubleshooting/ApplicationTroubleshooting.md)
