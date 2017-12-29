@@ -1,5 +1,6 @@
 ## Prerequisite software
 Before you jump to GoElites installation, please make sure that you have all of the following properly installed:
+
 - Windows 7 Service Pack 1 (*or newer; for application to run properly*)
 - [Visual Studio Build Tools](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=15#) (*for scripts to compile*)
 - [DirectX Software Development Kit](https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812) (*for drawings to be displayed properly*)
