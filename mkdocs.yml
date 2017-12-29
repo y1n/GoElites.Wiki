@@ -3,19 +3,20 @@ repo_url: https://github.com/y1n/GoElites.Wiki
 pages:
 - Home: index.md
 - Principles:
-    - Community Guidelines: Community Principles/Community Guidelines.md
-    - Support Guidelines: Community Principles/Support Guidelines.md
+    - Community Guidelines: CommunityPrinciples/CommunityGuidelines.md
+    - Support Guidelines: CommunityPrinciples/SupportGuidelines.md
 - Getting Started:
-    - Installing GoElites: Getting Started/Installation.md
-    - Features: Getting Started/Features.md
+    - Installing GoElites: GettingStarted/Installation.md
+    - Features: GettingStarted/Features.md
+    - Supported Champions: GettingStarted/SupportedChampions.md
     - FAQ: Getting Started/FAQ.md
 - Troubleshooting:
-    - How to submit a support ticket: Troubleshooting/Troubleshooting Report Guide.md
-    - Website Troubleshooting: Troubleshooting/Website Troubleshooting.md
-    - Application Troubleshooting: Troubleshooting/Application Troubleshooting.md
-
+    - How to submit a support ticket: Troubleshooting/TroubleshootingReportGuide.md
+    - Website Troubleshooting: Troubleshooting/WebsiteTroubleshooting.md
+    - Application Troubleshooting: Troubleshooting/ApplicationTroubleshooting.md
+    
 theme:
-  name: 'material'
+  name: 'readthedocs'
   language: 'en'
   palette:
     primary: 'pink'
