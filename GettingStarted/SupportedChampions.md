@@ -46,6 +46,7 @@
 |--|--|
 | Jayce | [📜][Jayce] |
 | Kayle | [📜][Kayle] |
+| Nasus | [📜][Nasus] |
 | Teemo | [📜][Teemo] |
 | Urgot | [📜][Urgot] |
 | Xin Zhao | [📜][Xin Zhao] |
@@ -56,7 +57,6 @@
 |--|--|
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
-| Nasus | [📜][Nasus] |
 | Xin Zhao | [📜][Xin Zhao] | 
 
 ### SUPPORT
