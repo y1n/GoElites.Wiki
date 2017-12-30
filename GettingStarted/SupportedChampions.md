@@ -66,6 +66,7 @@
 | Brand | [📜][Brand] |
 | Leona | [📜][Leona] |
 | Lulu | [📜][Lulu] |
+| Morgana | [📜][Morgana] |
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
@@ -109,3 +110,4 @@
 [Yasuo]: https://goelites.net/index.php?/topic/558-yasuo/
 [Zed]: https://goelites.net/index.php?/topic/661-zed/
 [Zoe]: https://goelites.net/index.php?/topic/808-zoe/
+[Morgana]: https://goelites.net/index.php?/topic/765-morgana/
