@@ -1,6 +1,11 @@
 *Here is the list of currently supported champions. To keep track of newly added champions, please follow the #changelog channel on our Discord*.
 
 ---
+
+
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Ryze</i> </div>
+
+
 ### ADC
 | Champion name | Forum page |
 |--|--|
@@ -32,6 +37,7 @@
 | Kayle | [📜][Kayle] |
 | Kog'Maw | [📜][KogMaw] |
 | Orianna | [📜][Orianna] |
+| Ryze | [📜][Ryze] |
 | Syndra | [📜][Syndra] |
 | Twisted Fate | [📜][Twisted Fate] |
 | Vel'Koz | [📜][VelKoz] |
@@ -111,3 +117,4 @@
 [Zed]: https://goelites.net/index.php?/topic/661-zed/
 [Zoe]: https://goelites.net/index.php?/topic/808-zoe/
 [Morgana]: https://goelites.net/index.php?/topic/765-morgana/
+[Ryze]: https://goelites.net/index.php?/topic/931-ryze/
