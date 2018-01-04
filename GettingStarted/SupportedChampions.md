@@ -14,6 +14,7 @@
 | Corki | [📜][Corki] |
 | Draven | [📜][Draven] |
 | Ezreal | [📜][Ezreal] |
+| Graves | [📜][Graves] |
 | Jhin | [📜][Jhin] |
 | Jinx | [📜][Jinx] |
 | Kalista | [📜][Kalista] |
@@ -118,3 +119,4 @@
 [Zoe]: https://goelites.net/index.php?/topic/808-zoe/
 [Morgana]: https://goelites.net/index.php?/topic/765-morgana/
 [Ryze]: https://goelites.net/index.php?/topic/931-ryze/
+[Graves]: https://goelites.net/index.php?/forum/23-champions/
