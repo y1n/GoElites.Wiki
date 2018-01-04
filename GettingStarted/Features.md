@@ -123,24 +123,24 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 | Category | Name | Options |
 |--|--|--|
-| Offensive | Blade of the Ruined King (**BotRK**) | KS; LowHP; Combo. |
-|  | Bilgewater Cutlass (**Cutlass**) | KS; Combo. |
-|  | Hextech Gunblade (**Hextech**) | KS; Combo. |
-|  | Hextech Protobelt-01 (**Protobelt**) | KS; Combo. |
-|  | Hextech GLP-800 (**GLP800**) | KS; Combo. |
-|  | Youmuu's Ghostblade (**Youmuus**) | KS (?); Combo. |
-|  | Ravenous Hydra (**Hydra 2**) | N/A |
-|  | Titanic Hydra (**Hydra Titanic**) | N/A |
-| Defensive | Frost Queen's Claim (**Frost Queen**) | N/A |
+| **Offensive** | Blade of the Ruined King (*BotRK*) | KS; LowHP; Combo. |
+|  | Bilgewater Cutlass (*Cutlass*) | KS; Combo. |
+|  | Hextech Gunblade (*Hextech*) | KS; Combo. |
+|  | Hextech Protobelt-01 (*Protobelt*) | KS; Combo. |
+|  | Hextech GLP-800 (*GLP800*) | KS; Combo. |
+|  | Youmuu's Ghostblade (*Youmuus*) | KS (?); Combo. |
+|  | Ravenous Hydra (*Hydra 2*) | N/A |
+|  | Titanic Hydra (*Hydra Titanic*) | N/A |
+| **Defensive** | Frost Queen's Claim (*Frost Queen*) | N/A |
 |  | Redemption | N/A |
-|  | Randuin's Omen (**Randuin**) | N/A |
+|  | Randuin's Omen (*Randuin*) | N/A |
 |  | Face of the Mountain | N/A |
 |  | Seraph's Embrace | N/A |
-|  | Locket of the Iron Solari (**Solari**) | N/A |
-|  | Zhonya's Hourglass (**Zhonya**) | N/A |
-| Cleanse | Quicksilver Sash | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
+|  | Locket of the Iron Solari (*Solari*) | N/A |
+|  | Zhonya's Hourglass (*Zhonya*) | N/A |
+| **Cleanse** | Quicksilver Sash | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
 |  | Mercurial Scimitar | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
-| Wards | Totem Ward | Auto Ward Bush; Use only in Combo. |
+| **Wards** | Totem Ward | Auto Ward Bush; Use only in Combo. |
 |  | Control Ward | Auto Ward Bush; Use only in Combo. |
 |  | [Stealth Ward](http://leagueoflegends.wikia.com/wiki/Ward#Stealth_Ward) | Auto Ward Bush; Use only in Combo. |
 |  | Farsight Ward | Auto Ward Bush; Auto Blue Ward; Use only in Combo. |
