@@ -121,6 +121,12 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 ### Activator: Supported Items
 
+**Definitions**:
+
+- **KS** - *killsteal*.
+- **LowHP** - *item will be used when your HP is low*.
+- **Combo** - *item will be used right away in combo on prioritized target*.
+
 | Category | Name | Options |
 |--|--|--|
 | **Offensive** | Blade of the Ruined King (*BotRK*) | KS; LowHP; Combo. |
