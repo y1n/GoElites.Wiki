@@ -17,7 +17,7 @@ We hope it serves as a reliable source of information regarding our product and 
 	- [Installing GoElites](GettingStarted/Installation.md)
 	- [Features Explained](GettingStarted/Features.md)
 	- [Supported Champions](GettingStarted/SupportedChampions.md)
-	- [FAQ](GettingStarted/FrequentlyAskedQuestions.md)
+	- [Frequently Asked Questions](GettingStarted/FrequentlyAskedQuestions.md)
 - Troubleshooting
 	- [How to report an issue](Troubleshooting/TroubleshootingReportGuide.md)
 	- [Website Support](Troubleshooting/WebsiteTroubleshooting.md)

@@ -30,11 +30,5 @@ No such plans for now!
 
 First we port OKTW champions, then we will start a poll. Champions are ported in accordance with the demand. 
 
-### Question 6: Is there any way to play using GoElites as a free user?
-
----
-
-As of now there is no.
-
 
 
