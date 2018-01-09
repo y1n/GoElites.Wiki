@@ -1,4 +1,4 @@
-**Disclaimer!** While the following article is not required for any regular community member to get acknowledged, it is essential guide for staff. It serves as a display of our customer treatment policies and ultimately declares our customer-centric standpoint.
+**Disclaimer!** While the following article is not required for any regular community member to get acquainted with, it is essential for the staff. It serves as a display of our customer treatment policies and ultimately declares our community-centric standpoint.
 
 ---
 

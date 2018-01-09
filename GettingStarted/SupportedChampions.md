@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Cassiopeia, Graves, Ryze</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Katarina, Cassiopeia, Graves</i> </div>
 
 
 ### ADC
@@ -36,6 +36,7 @@
 | Cassiopeia | [📜][Cassiopeia] |
 | Jayce | [📜][Jayce] |
 | Karthus | [📜][Karthus] |
+| Katarina | [📜][Katarina] |
 | Kayle | [📜][Kayle] |
 | Kog'Maw | [📜][KogMaw] |
 | Orianna | [📜][Orianna] |
@@ -122,3 +123,4 @@
 [Ryze]: https://goelites.net/index.php?/topic/931-ryze/
 [Graves]: https://goelites.net/index.php?/topic/948-graves/
 [Cassiopeia]: https://goelites.net/index.php?/topic/965-cassiopeia/
+[Katarina]: https://goelites.net/index.php?/topic/989-katarina/

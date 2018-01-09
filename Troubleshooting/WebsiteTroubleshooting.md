@@ -2,7 +2,7 @@
 
 | Question | Answer |
 |--|--|
-| **I cannot download GoElites from a website**! | You have to be logged in before you can use a link to download the GoElites Loader. |
+| **I cannot download GoElites from a website**! | You have to be logged in on forum before you can use a link to download the GoElites Loader. |
 | **I have bought a subscription code. Where do I activate it?** | You can activate it in ``Settings -> Account Settings -> Licence Keys`` menu ([where?](https://s.put.re/26ev89S.png)). [[Direct link](https://goelites.net/index.php?app=core&module=system&controller=settings&area=licencesystem)] |
 | **I've heard I can buy subscription using Paypal somewhere. Where can I do this?** | While we don't directly sell subscriptions via Paypal, we have allowed trusted resellers who do, to advertise their services on our forum. Please visit [Resellers](https://goelites.net/index.php?/forum/68-resellers/) category on our forum to find a person who you want to buy subscription code from. |
 | **I have bought a subscription via Bitcoin but I'm still not assigned with Elite rank! What do I do?** | Due to the nature of Bitcoin transaction, you have to wait until your payment has received at least 2 confirmations on blockchain. After it has, your rank will be updated automatically. **Note**: on avarage, it takes around 2 hours for transaction to be verified. |

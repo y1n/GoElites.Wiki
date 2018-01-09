@@ -52,7 +52,7 @@ If enabled, replaces your current skin with the one you've selected in the menu.
 | **Spell tracker**: HP Bar X,Y | Allows you to change spell tracker location relative to healthbar location. **Note**: default values are 0, 0. |
 | **HUD** | Displays HUD with the following information on enemy champions: *summoner spells*, *current or last seen level*, *current or last seen hp and mana*, *time missing*, *ultimate availability*. | 
 | **HUD**: Position X,Y | Allows you to change HUD location on the screen. |
-| **HUD**: Scale | Allows you to change HUD scale. **Note**: default value is 60 |
+| **HUD**: Scale | Allows you to change HUD scale. **Note**: default value is 60. |
 | **Gank alert** | Displays a line which shows the distance to an ally, enemy champions which are close to you but don't fit on screen. The bolder the line, the closer the distance. Green lines represent ally champions, red lines represent enemy champions. |
 | **Gank alert**: Only Enemy | Enables gank alert for enemy champions only. |
 | **Gank alert**: Only Junglers | Enables gank alert for champions with Smite only. |
@@ -184,5 +184,5 @@ If enabled, allows you to change nicknames for both allies and enemies.
 ### Humanizer
 | Option | Purpose |
 |--|--|
-| **Block action out screen** | TBA |
+| **Block action out screen** | Toggles not to perform any script actions when your champion is not on your screen. |
 | **Click time ms** | Sets the delay between click commands in milliseconds. |
