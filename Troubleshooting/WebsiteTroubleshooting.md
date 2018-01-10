@@ -1,4 +1,4 @@
-*Here is the list of known questions which may arise while using our website and answers to them*:
+*Here is the list of known questions which may arise while using our website and answers to them*.
 
 | Question | Answer |
 |--|--|
