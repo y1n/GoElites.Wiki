@@ -36,9 +36,7 @@ a.header_link span {
     <a class="header_link" href="https://discord.gg/m7RctYk"><span>></span> Discord</a>
 </div>
 
-**Welcome to the GoElites.Wiki**! [[Forum](https://goelites.net)] [[Discord](https://discord.gg/m7RctYk)]
-
-We hope it serves as a reliable source of information regarding our product and the community. If something of your concern is not answered somewhere here yet, please reach us out using either our forum or Discord channel!
+**Welcome to GoElites Wiki!** We hope it serves as a reliable source of information regarding our product and the community. If something of your concern is not answered somewhere here yet, please reach us out using either our forum or Discord channel!
 
 ## Translations
 
@@ -47,6 +45,7 @@ We hope it serves as a reliable source of information regarding our product and 
 | <a href="http://goeliteswiki.readthedocs.io/en/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/118/flag-for-united-states_1f1fa-1f1f8.png" alt="French" style="width: 30px;"/></a> | **Yin** |
 | <a href="http://goeliteswiki.readthedocs.io/fr/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/118/flag-for-france_1f1eb-1f1f7.png" alt="French" style="width: 30px;"/></a> | **Melanie Martinez** |
 | <a href="http://goeliteswiki.readthedocs.io/es/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/118/flag-for-spain_1f1ea-1f1f8.png" alt="Spain" style="width: 30px;"/></a> | **Glaxy** |
+| <a href="http://goeliteswiki.readthedocs.io/zh/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/118/flag-for-china_1f1e8-1f1f3.png" alt="China" style="width: 30px;"/></a> | **Uchiha** |
 
 ## Content
 - Principles

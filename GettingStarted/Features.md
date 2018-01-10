@@ -126,6 +126,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 - **KS** - *killsteal*.
 - **LowHP** - *item will be used when your HP is low*.
 - **Combo** - *item will be used right away in combo on prioritized target*.
+- **N/A** - *no customization, option to enable/disable the use of an item only*.
 
 | Category | Name | Options |
 |--|--|--|
