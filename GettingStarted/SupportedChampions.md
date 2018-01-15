@@ -66,6 +66,8 @@
 |--|--|
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
+| Lee Sin | [📜][LeeSin] |
+| Master Yi | [📜][MasterYi] |
 | Xin Zhao | [📜][Xin Zhao] | 
 
 ### SUPPORT
@@ -124,3 +126,5 @@
 [Graves]: https://goelites.net/index.php?/topic/948-graves/
 [Cassiopeia]: https://goelites.net/index.php?/topic/965-cassiopeia/
 [Katarina]: https://goelites.net/index.php?/topic/989-katarina/
+[MasterYi]: https://goelites.net/index.php?/topic/1026-master-yi/
+[LeeSin]: https://goelites.net/index.php?/topic/1051-lee-sin/
