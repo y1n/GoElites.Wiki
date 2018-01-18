@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Lee Sin, Master Yi, Katarina</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Olaf, Soraka, Lee Sin</i> </div>
 
 
 ### ADC
@@ -56,6 +56,7 @@
 | Jayce | [📜][Jayce] |
 | Kayle | [📜][Kayle] |
 | Nasus | [📜][Nasus] |
+| Olaf | [📜][Olaf] |
 | Teemo | [📜][Teemo] |
 | Urgot | [📜][Urgot] |
 | Xin Zhao | [📜][Xin Zhao] |
@@ -78,6 +79,7 @@
 | Leona | [📜][Leona] |
 | Lulu | [📜][Lulu] |
 | Morgana | [📜][Morgana] |
+| Soraka | [📜][Soraka] |
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
@@ -128,3 +130,5 @@
 [Katarina]: https://goelites.net/index.php?/topic/989-katarina/
 [MasterYi]: https://goelites.net/index.php?/topic/1026-master-yi/
 [LeeSin]: https://goelites.net/index.php?/topic/1051-lee-sin/
+[Olaf]: https://goelites.net/index.php?/topic/1080-olaf/
+[Soraka]: https://goelites.net/index.php?/topic/1081-soraka/
