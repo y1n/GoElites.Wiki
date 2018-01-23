@@ -54,6 +54,7 @@
 | Champion name | Forum page |
 |--|--|
 | Jayce | [📜][Jayce] |
+| Jax | [📜][Jax] |
 | Kayle | [📜][Kayle] |
 | Nasus | [📜][Nasus] |
 | Olaf | [📜][Olaf] |
@@ -132,3 +133,4 @@
 [LeeSin]: https://goelites.net/index.php?/topic/1051-lee-sin/
 [Olaf]: https://goelites.net/index.php?/topic/1080-olaf/
 [Soraka]: https://goelites.net/index.php?/topic/1081-soraka/
+[Jax]: https://goelites.net/index.php?/topic/1147-jax/
