@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Jax, Olaf, Soraka</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Lux, Jax, Olaf</i> </div>
 
 
 ### ADC
@@ -39,6 +39,7 @@
 | Katarina | [📜][Katarina] |
 | Kayle | [📜][Kayle] |
 | Kog'Maw | [📜][KogMaw] |
+| Lux | [📜][Lux] |
 | Orianna | [📜][Orianna] |
 | Ryze | [📜][Ryze] |
 | Syndra | [📜][Syndra] |
@@ -134,3 +135,4 @@
 [Olaf]: https://goelites.net/index.php?/topic/1080-olaf/
 [Soraka]: https://goelites.net/index.php?/topic/1081-soraka/
 [Jax]: https://goelites.net/index.php?/topic/1147-jax/
+[Lux]: https://goelites.net/index.php?/topic/1362-lux/
