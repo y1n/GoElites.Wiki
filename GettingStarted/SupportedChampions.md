@@ -44,6 +44,7 @@
 | Ryze | [📜][Ryze] |
 | Syndra | [📜][Syndra] |
 | Twisted Fate | [📜][Twisted Fate] |
+| Veigar | [📜][Veigar]
 | Vel'Koz | [📜][VelKoz] |
 | Viktor | [📜][Viktor] |
 | Xerath | [📜][Xerath] |
@@ -136,3 +137,4 @@
 [Soraka]: https://goelites.net/index.php?/topic/1081-soraka/
 [Jax]: https://goelites.net/index.php?/topic/1147-jax/
 [Lux]: https://goelites.net/index.php?/topic/1362-lux/
+[Veigar]: https://goelites.net/index.php?/topic/1456-veigar/
