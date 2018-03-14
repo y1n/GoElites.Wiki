@@ -16,5 +16,5 @@ html_logo = 'img/ge_logo_small_outline.png'
 def setup(app):
    app.add_stylesheet("custom.css")
    app.add_stylesheet("rtfd-css.css")
-   app.add_stylesheet("docs/css/extra.css")
+   app.add_stylesheet("extra.css")
    
