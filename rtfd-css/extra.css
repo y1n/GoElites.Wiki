@@ -12,11 +12,11 @@ a:visited {
 }
 
 .wy-side-nav-search {
-    background-color: #404E61;
+    background-color: #18161E;
 }
 
 .wy-side-nav-search input[type=text] {
-    border-color: #404E61;
+    border-color: #18161E;
 }
 
 .wy-side-nav-search>a, 
@@ -31,4 +31,8 @@ a:visited {
 
 .wy-menu-vertical a:visited {
     color: #b3b3b3;
+}
+
+.rst-versions{
+border-top:solid 10px #18161E;
 }
