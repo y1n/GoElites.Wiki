@@ -3,18 +3,6 @@
 */
 /* override table width restrictions */
 
-.wy-side-nav-search {
-background-color: #18161E;
-}
-.wy-nav-side {
-background-color: #18161E;
-}
-.rst-versions .rst-current-version {
-background-color: #18161E;
-}
-.rst-versions {
-border-top:solid 10px #222c32;
-}
 
 .wy-table-responsive table td, .wy-table-responsive table th {
     /* !important prevents the common CSS stylesheets from
