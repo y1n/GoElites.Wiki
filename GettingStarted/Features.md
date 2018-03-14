@@ -32,7 +32,10 @@ GoElites comes on *All-In-One* basis, which means that everything that we believ
 ### Skin Changer
 
 If enabled, replaces your current skin with the one you've selected in the menu. 
-**Note**: this is a client-side setting and thus your skin can only be seen by you.
+<div class="admonition tip">
+<p class="first admonition-title">Note</p>
+<p class="last">This is a client-side setting and thus your skin can only be seen by you.</p>
+</div>
 
 ### Awareness & Trackers
 
@@ -61,8 +64,12 @@ If enabled, replaces your current skin with the one you've selected in the menu.
 
 ### Nickname Changer
 
-If enabled, allows you to change nicknames for both allies and enemies. 
-**Note**: disabling the option after changing one's nickname won't revert the change.
+If enabled, allows you to change nicknames for both allies and enemies.  
+<div class="admonition tip">
+<p class="first admonition-title">Note</p>
+<p class="last">Disabling the option after changing one's nickname won't revert the change.</p>
+</div>
+
 
 ### Target Selector
 
@@ -121,12 +128,15 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 ### Activator: Supported Items
 
-**Definitions**:
-
-- **KS** - *killsteal*.
-- **LowHP** - *item will be used when your HP is low*.
-- **Combo** - *item will be used right away in combo on prioritized target*.
-- **N/A** - *no customization, option to enable/disable the use of an item only*.
+<div class="admonition tip">
+<p class="first admonition-title">Definitions</p>
+<p class="last">
+1. <strong>KS</strong> — killsteal.
+2. <strong>LowHP</strong> — item will be used when your HP is low.
+3. <strong>Combo</strong> — item will be used right away in combo on prioritized target.
+4. <strong>N/A</strong> — no customization, option to enable/disable the use of an item only.
+</p>
+</div>
 
 | Category | Name | Options |
 |--|--|--|
