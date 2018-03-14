@@ -3,6 +3,10 @@
 */
 /* override table width restrictions */
 
+.wy-side-nav-search {
+	background-color: #18161E;
+}
+
 .wy-table-responsive table td, .wy-table-responsive table th {
     /* !important prevents the common CSS stylesheets from
        overriding this as on RTD they are loaded after this stylesheet */
