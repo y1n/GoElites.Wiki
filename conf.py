@@ -9,7 +9,7 @@ html_theme_options = {
     'display_version': False,
 }
 
-html_logo = 'https://raw.githubusercontent.com/y1n/GoElites.Wiki/master/img/ge_logo_small_outline.pnghttps://raw.githubusercontent.com/y1n/GoElites.Wiki/master/img/ge_logo_small_outline.png'
+html_logo = 'img/ge_logo_small_outline.png'
 
 # Add custom .css files
 # https://github.com/snide/sphinx_rtd_theme/issues/117#issuecomment-41571653
