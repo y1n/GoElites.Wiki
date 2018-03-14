@@ -1,4 +1,6 @@
+<div class="warning">
 Read through these guidelines carefully before you go over to the Forums. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.
+</div>
 
 **General Rules**
 
