@@ -131,9 +131,9 @@ If enabled, allows you to change nicknames for both allies and enemies.
 <div class="admonition tip">
 <p class="first admonition-title">Definitions</p>
 <p class="last">
-1. <strong>KS</strong> — killsteal.
-2. <strong>LowHP</strong> — item will be used when your HP is low.
-3. <strong>Combo</strong> — item will be used right away in combo on prioritized target.
+1. <strong>KS</strong> — killsteal.</br>
+2. <strong>LowHP</strong> — item will be used when your HP is low.</br>
+3. <strong>Combo</strong> — item will be used right away in combo on prioritized target.</br>
 4. <strong>N/A</strong> — no customization, option to enable/disable the use of an item only.
 </p>
 </div>
