@@ -2,6 +2,15 @@
 
 Read through these guidelines carefully before you go over to the Forums. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.
 
+.. admonition:: Examples on GitHub
+
+  * Link to the example
+
+.. admonition:: Stackoverflow
+
+  * Link to the Stackoverflow
+  
+ 
 **General Rules**
 
 - Forum language is English. Other languages are allowed only in multi-language section.
