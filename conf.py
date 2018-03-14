@@ -4,11 +4,12 @@
 html_static_path = ['_static', 'rtfd-css']
 
 # Logo and version display.
-html_logo = 'img/ge_logo_small_outline.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
 }
+
+html_logo = 'img/ge_logo_small_outline.png'
 
 # Add custom .css files
 # https://github.com/snide/sphinx_rtd_theme/issues/117#issuecomment-41571653
