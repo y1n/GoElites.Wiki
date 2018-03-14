@@ -1,6 +1,7 @@
-**Disclaimer!** While the following article is not required for any regular community member to get acquainted with, it is essential for the staff. It serves as a display of our customer treatment policies and ultimately declares our community-centric standpoint.
-
----
+<div class="admonition warning">
+<p class="first admonition-title">Disclaimer</p>
+<p class="last">While the following article is not required for any regular community member to get acquainted with, it is essential for the staff. It serves as a display of our customer treatment policies and ultimately declares our community-centric standpoint.</p>
+</div>
 
 As any other service, GoElites strongly relies on customer satisfaction. We comprise of two separate teams responsible for two different aspects of our service: software developers and support representatives. While people come for software, they often stay for community even if they stop playing the game we provide our services for, and our main goal is to make their experience as the part of the community as exciting as possible. In order to make our principles on how we communicate with our community clear, we'd like you to get acquainted with the following:
 
