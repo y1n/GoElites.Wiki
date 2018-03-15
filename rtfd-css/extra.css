@@ -36,3 +36,15 @@ a:visited {
 .rst-versions{
 border-top:solid 10px #18161E;
 }
+
+.icon {
+	display: none;
+}
+
+.wy-side-nav-search>a {
+    color: #fcfcfc;
+    font-size: 36px;
+    font-weight: italic bold;
+    display: inline-block;
+    padding: 4px 6px;
+    margin-bottom: 0.809em;
