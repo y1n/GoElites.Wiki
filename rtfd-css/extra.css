@@ -61,6 +61,7 @@ border-top:solid 10px #18161E;
 	padding-left: 3px;
 	border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
+	font-weight: bold;
 }
 
 .wy-plain-list-decimal li span, .rst-content .section ol li span, .rst-content ol.arabic li span, article ol li span {
