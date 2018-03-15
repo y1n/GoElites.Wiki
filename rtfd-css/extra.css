@@ -3,7 +3,7 @@ a.icon.icon-home {
 }
 
 a {
-    color: #A91919;
+    color: #A91919; /* RED LINKS */
 }
 
 a:hover,
@@ -57,7 +57,7 @@ border-top:solid 10px #18161E;
     list-style: decimal;
     margin-left: 0; /* NO MARGIN FOR NUMERIC LISTS */
 	margin-top: 10px;
-	border-left: 3px solid #1D80A5;
+	border-left: 3px solid #1D80A5; /* BLUE COLOR LEFT BORDER */
 	padding-left: 3px;
 	border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
