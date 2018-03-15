@@ -57,6 +57,13 @@ border-top:solid 10px #18161E;
     list-style: decimal;
     margin-left: 0; /* NO MARGIN FOR NUMERIC LISTS */
 	margin-top: 10px;
-	border-left: 3px solid #18161E;
+	border-left: 3px solid #1D80A5;
 	padding-left: 3px;
+	border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.wy-plain-list-decimal li span, .rst-content .section ol li span, .rst-content ol.arabic li span, article ol li span {
+	color: black;
+	font-weight: normal;
 }
