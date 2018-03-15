@@ -16,7 +16,7 @@ In order to install GoElites, providing that all of the prerequisites are instal
 2. Run it and select the folder where you want GoElites to be installed. 
 <div class="admonition tip">
 <p class="first admonition-title">Note</p>
-<p class="last">In order to avoid some issues we recommend you that the path to GoElites loader should only contain A-Z 1-9 characters in it</p>
+<p class="last">In order to avoid some issues we recommend you that the path to GoElites loader should only contain A-Z 1-9 characters in it.</p>
 </div>
 3. Start GoElites Loader as administrator.
 4. Log in to your GoElites account.
