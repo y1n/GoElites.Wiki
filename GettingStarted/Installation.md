@@ -7,7 +7,7 @@ Before you jump to GoElites installation, please make sure that you have all of 
 - [DirectX June 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) (*to ensure no problems with the injection occur*)
 - [.NET Framework 4.6.2](https://download.microsoft.com/download/E/F/D/EFD52638-B804-4865-BB57-47F4B9C80269/NDP462-DevPack-KB3151934-ENU.exe) (*for application to run*)
 
-This software is required to allow GoElites application to function propely. Without any of these components, even if you manage to run GoElites, it will most likely fail to function in some aspect or another. So before you submit a bug report, please make sure that everything listed above is in place on your computer.
+This software is required to allow GoElites application to function properly. Without any of these components, even if you manage to run GoElites, it will most likely fail to function in some aspect or another. So before you submit a bug report, please make sure that everything listed above is in place on your computer.
 
 ## GoElites installation
 In order to install GoElites, providing that all of the prerequisites are installed, you need to do the following:
