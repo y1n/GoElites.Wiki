@@ -8,7 +8,7 @@ a {
 
 a:hover,
 a:active {
-    color: #A91919;
+    color: #000;
 }
 
 a:visited {
@@ -27,10 +27,12 @@ a:visited {
 .wy-side-nav-search .wy-dropdown>a,
 .wy-menu-vertical a:hover {
     color: #A91919 !important;
+	background-color: #fff;
 }
 
 .wy-menu-vertical a:active {
     background-color: #fff;
+	color: #000;
 }
 
 .wy-menu-vertical a:visited {
