@@ -19,10 +19,6 @@ a:visited {
     background-color: #18161E;
 }
 
-.wy-nav-side {
-	background: 
-}
-
 .wy-side-nav-search input[type=text] {
     border-color: #18161E;
 }
@@ -30,11 +26,11 @@ a:visited {
 .wy-side-nav-search>a, 
 .wy-side-nav-search .wy-dropdown>a,
 .wy-menu-vertical a:hover {
-    color: #537a66 !important;
+    color: #540c0c !important;
 }
 
 .wy-menu-vertical a:active {
-    background-color: #537a66;
+    background-color: #540c0c;
 }
 
 .wy-menu-vertical a:visited {
