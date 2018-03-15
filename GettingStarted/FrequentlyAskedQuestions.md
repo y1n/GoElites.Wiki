@@ -1,6 +1,6 @@
 *Here is a collection of questions that staff and helpful members get asked on daily basis. They are not troubleshooting-related so there are very few reliable sources where answers to these questions can be found. We will try to give comprehensive answers to most of them here!*
 
-### <font color="black">1</color>: How different is GoElites from other services out there?
+### <span color="black">1</span>: How different is GoElites from other services out there?
 
 ---
 
@@ -11,7 +11,7 @@ In GoElites, our greatest value is your experience as our community member. We s
 </p>
 </div>
 
-### <font color="black">2</color>: Can I use your software on my device?
+### <span color="black">2</span>: Can I use your software on my device?
 
 ---
 <div class="admonition tip">
@@ -21,7 +21,7 @@ Our software can currently only be ran on devices with Windows 7 or higher insta
 </p>
 </div>
 
-### <font color="black">3</color>: Can I help?
+### <span color="black">3</span>: Can I help?
 
 ---
 <div class="admonition tip">
@@ -31,7 +31,7 @@ Yes. If you come across someone who has encountered a problem you know how to so
 </p>
 </div>
 
-### <font color="black">4</color>: Will you release an API so other developers can release their scripts?
+### <span color="black">4</span>: Will you release an API so other developers can release their scripts?
 
 ---
 <div class="admonition tip">
