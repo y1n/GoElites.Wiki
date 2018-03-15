@@ -26,11 +26,11 @@ a:visited {
 .wy-side-nav-search>a, 
 .wy-side-nav-search .wy-dropdown>a,
 .wy-menu-vertical a:hover {
-    color: #540c0c !important;
+    color: #A91919 !important;
 }
 
 .wy-menu-vertical a:active {
-    background-color: #540c0c;
+    background-color: #fff;
 }
 
 .wy-menu-vertical a:visited {
