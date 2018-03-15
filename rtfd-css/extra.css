@@ -21,6 +21,7 @@ a:visited {
 
 .wy-side-nav-search input[type=text] {
     border-color: #18161E;
+	border-radius: 0px; /* MAKE SEARCH BOX NON-ROUNDED */
 }
 
 .wy-side-nav-search>a, 
@@ -50,11 +51,9 @@ border-top:solid 10px #18161E;
     display: inline-block;
     padding: 4px 6px;
     margin-bottom: 0.809em;
-	
-.wy-side-nav-search input[type=text] {
-    border-radius: 0px; /* MAKE SEARCH BOX NON-ROUNDED */
 }
 
 .wy-plain-list-decimal li, .rst-content .section ol li, .rst-content ol.arabic li, article ol li {
-    margin-left: 0px; /* NO MARGIN FOR NUMERIC LISTS */
+    list-style: decimal;
+    margin-left: 0; /* NO MARGIN FOR NUMERIC LISTS */
 }
