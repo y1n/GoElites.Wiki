@@ -2,8 +2,6 @@
 
 ### <font color="black">1</font>: How different is GoElites from other services out there?
 
----
-
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
@@ -11,9 +9,10 @@ In GoElites, our greatest value is your experience as our community member. We s
 </p>
 </div>
 
+---
+
 ### <font color="black">2</font>: Can I use your software on my device?
 
----
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
@@ -21,9 +20,10 @@ Our software can currently only be ran on devices with Windows 7 or higher insta
 </p>
 </div>
 
+---
+
 ### <font color="black">3</font>: Can I help?
 
----
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
@@ -31,9 +31,10 @@ Yes. If you come across someone who has encountered a problem you know how to so
 </p>
 </div>
 
+---
+
 ### <font color="black">4</font>: Will you release an API so other developers can release their scripts?
 
----
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
@@ -41,9 +42,10 @@ Will happen eventually, but no ETA as of now.
 </p>
 </div>
 
+---
+
 ### <font color="black">5</font>: Is there any certain order for champion script releases? What champions should we expect next?
 
----
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
