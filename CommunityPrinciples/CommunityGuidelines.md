@@ -1,6 +1,6 @@
 <div class="admonition warning">
 <p class="first admonition-title">Warning</p>
-<p class="last">Read through these guidelines carefully before you go over to the [Forum](https://goelites.net/). In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.</p>
+<p class="last">Read through these guidelines carefully before you go over to the <a href="https://goelites.net/">Forum</a>. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.</p>
 </div>
 
 **General Rules**
