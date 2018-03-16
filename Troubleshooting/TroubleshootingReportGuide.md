@@ -2,7 +2,7 @@ We always strive to provide flawless experience for you guys since we are users 
 
 While we are sure that most issues are already documented here, there may still be some new ones that you could have unfortunately came across. And for this particular case, we have [General Assistance](https://goelites.net/index.php?/forum/35-general-assistance/) category on our forum where you can report your issue.
 
-But before you submit your report, please make sure that you're aquainted with the standards of how to submit a report. These are important for us as it really shortens the process of issue investigation by a lot, so it is great for both you and staff representative who will look into your case.
+But before you submit your report, please make sure that you're acquainted with the standards of how to submit a report. These are important for us as it really shortens the process of issue investigation by a lot, so it is great for both you and staff representative who will look into your case.
 
 ## Troubleshooting Report Guidelines
 
