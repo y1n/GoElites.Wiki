@@ -84,7 +84,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Modes**: Most AP | Chooses the target with the highest AP to be focused first. |
 | **Modes**: Closest | Chooses the closest target to be focused first. |
 | **Modes**: Near Mouse | Chooses the target closest to the cursor to be focused first. |
-| **Modes**: LessAttack | TBA |
+| **Modes**: LessAttack | Chooses the target that is the easiest to kill with autoattacks. |
 | **Modes**: LessCast | Chooses the target with the most skills up to be targeted first. |
 | **Modes**: Priority list | Chooses target according to the priority list. |
 | **Priority list** | On priority list, champions with 1 will be focused last, champions with 5 will be focused first. |
@@ -186,8 +186,8 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Humanizer settings**: Dont Dodge If Alt-Tab | Disables Evade from execution when League of Legends window is not active. |
 | **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen. |
 | **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | Disables dodging when your champion is not on the screen. |
-| **Humanizer settings**: Ignore FOW Exit | TBA | 
-| **Humanizer settings**: Minimal Visiblity Time | TBA |
+| **Humanizer settings**: Ignore FOW Exit | Toggles script not to use skills on the target that just left FOW. | 
+| **Humanizer settings**: Minimal Visiblity Time | Sets for how much time targets need to remain in vision before shooting skillshots. |
 | **Drawing settings**: Line Width | Sets the width of Evade drawings' lines. |
 | **Drawing settings**: Draw Evade Status | Shows whether the Evade is enabled under your champion. |
 | **Drawing settings**: Draw Evade Point | Shows a pointer which indicates the evasion route. |
