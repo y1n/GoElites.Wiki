@@ -1,6 +1,6 @@
 <div class="admonition warning">
 <p class="first admonition-title">Warning</p>
-<p class="last">Read through these guidelines carefully before you go over to the Forums. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.</p>
+<p class="last">Read through these guidelines carefully before you go over to the [Forum](https://goelites.net/). In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.</p>
 </div>
 
 **General Rules**
@@ -19,7 +19,7 @@
 - No executables are allowed unless from Moderator or higher.
 - No NSFW or offensive content.
 - No posts asking for update or release ETA.
-- No exploit destribution or discussion.
+- No exploit distribution or discussion.
 - No selling or trading.
 - No referral links of any kind.
 - No advertisement links of any kind are allowed.
@@ -35,6 +35,6 @@
 
 - All General Rules apply.
 - No drama.
-- No abusive behaviour even if done "for fun".
+- No abusive behavior even if done "for fun".
 - Punishments range from 24 hours to permanent suspension from ChatBox.
  
