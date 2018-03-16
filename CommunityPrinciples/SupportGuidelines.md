@@ -13,6 +13,7 @@ As any other service, GoElites strongly relies on customer satisfaction. We comp
 6. **If you get insulted - never respond with an insult**. In this case the best option is always to try to solve the problem between you and that person. Try to understand their standpoint and determine whether there was something you've done wrong or no. If there was nothing you've done wrong and you cannot reason the person, the best thing you can do is to **tell that person to pass their complaint to the community moderator or administration**. Don't provoke further conflict to get the person suspended, always leave your personal animosity behind when on your duty as a staff member.
 
 As a conclusion to everything listed above, we as the support team are expected to be:
+
 - **Motivated** and motivating - to keep it fun for you in first place, for your teammates and for the rest of the community.
 - **Smart** and informed - to be able to identify and solve the problem.
 - **Inventive** - to be able to think out-of-the-box when there is no direct solution to the problem.
