@@ -127,28 +127,3 @@ h1, h2, h3, h4, h5, h6, legend {
     vertical-align: middle;
     color: white
 }
-
-/* ADDING HORIZONTAL LINE TO HEADING */
-
-h1, h2, h3, h4, h5, h6 {
- overflow: hidden;
- text-align: center;
-}
-h1, h2, h3, h4, h5, h6:before,
-h1, h2, h3, h4, h5, h6:after {
- background-color: #000;
- content: "";
- display: inline-block;
- height: 1px;
- position: relative;
- vertical-align: middle;
- width: 50%;
-}
-h1, h2, h3, h4, h5, h6:before {
- right: 0.5em;
- margin-left: -50%;
-}
-h1, h2, h3, h4, h5, h6:after {
- left: 0.5em;
- margin-right: -50%;
-}
