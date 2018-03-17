@@ -4,6 +4,10 @@ body {
     line-height: 18px;
 }
 
+p {
+	font-size: 13px; 
+}
+
 a.icon.icon-home {
 	display: none; /* DISABLE LOGO TEXT */
 }
