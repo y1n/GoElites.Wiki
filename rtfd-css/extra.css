@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6, legend {
     font-weight: 700;
 	font-style: italic;
     font-family: UniSans,"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-	color: black; /* COLOR BLACK TO EVERY HEADER */
+	color: 343131; /* COLOR BLACK TO EVERY HEADER */
 }
 
 /* BOX WITH NUMBERS INSTEAD OF DECIMAL LIST */
@@ -130,19 +130,25 @@ h1, h2, h3, h4, h5, h6, legend {
 
 /* ADDING HORIZONTAL LINE TO HEADING */
 
-h1, h2, h3, h4, h5, h6, legend {
-    overflow: hidden;
+h1, h2, h3, h4, h5, h6 {
+ overflow: hidden;
+ text-align: center;
 }
-h1, h2, h3, h4, h5, h6, legend:after {
-    background-color: #000;
-    content: "";
-    display: inline-block;
-    height: 3px;
-    position: relative;
-    vertical-align: middle;
-    width: 100%;
+h1, h2, h3, h4, h5, h6:before,
+h1, h2, h3, h4, h5, h6:after {
+ background-color: #000;
+ content: "";
+ display: inline-block;
+ height: 1px;
+ position: relative;
+ vertical-align: middle;
+ width: 50%;
 }
-h1, h2, h3, h4, h5, h6, legend:after {
-    left: 0;
-    margin-right: -50%;
+h1, h2, h3, h4, h5, h6:before {
+ right: 0.5em;
+ margin-left: -50%;
+}
+h1, h2, h3, h4, h5, h6:after {
+ left: 0.5em;
+ margin-right: -50%;
 }
