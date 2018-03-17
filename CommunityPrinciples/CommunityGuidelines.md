@@ -3,7 +3,7 @@
 <p class="last">Read through these guidelines carefully before you go over to the <a href="https://goelites.net/">Forum</a>. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.</p>
 </div>
 
-**General Rules**
+###General Rules
 
 - Forum language is English. Other languages are allowed only in multi-language section.
 - No verbal abuse or non-constructive criticism.
@@ -31,7 +31,7 @@
 - No revealing of private information of fellow community members unless given an explicit permission from that member or from Moderator or higher.
 - Staff members are allowed to choose the punishment measures at their own discretion considering the severity of the violation.
 
-**ChatBox Rules** 
+###ChatBox Rules 
 
 - All General Rules apply.
 - No drama.
