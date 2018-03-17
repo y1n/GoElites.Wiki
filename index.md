@@ -1,4 +1,9 @@
 <style>
+@font-face {
+  font-family: "UniSans";
+  src: url(rtfd-css/UniSansHeavyItalic.otf) format("truetype");
+}
+
 .good_announcement {
     background-color: #343131;
 	border: 1px solid #0f0e0e;
@@ -13,8 +18,9 @@ a.header_link {
 	display: inline;
 	float: right;
 	margin-left: 10px;
-	font-size: 16px;
-	font-weight: bold;
+    font-family: UniSans,sans-serif;
+    font-style: italic;
+    font-weight: 700;
 	text-decoration: none;
 	color: #97b3a6;
 }
