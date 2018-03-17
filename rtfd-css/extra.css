@@ -94,9 +94,13 @@ h1, h2, h3, h4, h5, h6, legend {
 
 .square-box{
     position: relative;
-    width: 30px;
+    width: 20px;
     overflow: hidden;
     background: #343131;
+    display: inline-block;
+    font-family: UniSans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 .square-box:before{
     content: "";
