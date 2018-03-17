@@ -13,7 +13,7 @@ This software is required to allow GoElites application to function properly. Wi
 In order to install GoElites, providing that all of the prerequisites are installed, you need to do the following:</br>
 <div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Download the [**Loader**](https://goelites.net/index.php?/forum/17-download-goelites/).</br>
 <div class='square-box'><div class='square-content'><div><span>2</span></div></div></div> Run it and select the folder where you want GoElites to be installed.</br>
-<div class="admonition tip">
+<div class="admonition tip" style="margin-bottom: 5px";>
 <p class="first admonition-title">Note</p>
 <p class="last">In order to avoid some issues we recommend you that the path to GoElites loader should only contain <strong>A-Z 1-9</strong> characters in it.</p>
 </div>
