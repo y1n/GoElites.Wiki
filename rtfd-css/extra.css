@@ -128,3 +128,28 @@ h1, h2, h3, h4, h5, h6, legend {
     vertical-align: middle;
     color: white
 }
+
+/* THATS COLORED LINE AFTER HEADERS */
+.h1:after, h2:after {
+    content: "";
+    height: 2px;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    opacity: .6;
+    margin-left: 10px;
+    }
+.h1:after {
+    background-color: #343131;
+}
+.h1, h2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.h1 {
+    color: #343131;
+}
