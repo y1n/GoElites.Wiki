@@ -8,6 +8,10 @@ p {
 	font-size: 13px; 
 }
 
+code {
+	font-size: 100%;
+}
+
 a.icon.icon-home {
 	display: none; /* DISABLE LOGO TEXT */
 }
