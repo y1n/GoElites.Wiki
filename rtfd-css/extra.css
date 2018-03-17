@@ -4,6 +4,11 @@ body {
     line-height: 18px;
 }
 
+@font-face {
+  font-family: "UniSans";
+  src: url(rtfd-css/Uni%20Sans%20Heavy%20Italic.otf) format("truetype");
+}
+
 p {
 	font-size: 13px; 
 	margin-bottom: 12px; /* MAINLY FOR LISTS */
@@ -77,3 +82,10 @@ border-top:solid 10px #18161E;
 	border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
 }
+
+h1, h2, h3, h4, h5, h6, legend {
+    margin-top: 0;
+    font-weight: 700;
+	font-style: italic;
+    font-family: UniSans,"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+};

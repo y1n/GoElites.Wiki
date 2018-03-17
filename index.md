@@ -1,9 +1,4 @@
 <style>
-@font-face {
-  font-family: "UniSans";
-  src: url(rtfd-css/Uni%20Sans%20Heavy%20Italic.otf) format("truetype");
-}
-
 .good_announcement {
     background-color: #343131;
 	border: 1px solid #0f0e0e;
