@@ -23,3 +23,13 @@ In order to install GoElites, providing that all of the prerequisites are instal
 5. Wait for login window to shut down and command line with text ``Waiting for League of Legends.exe...`` to show up.
 6. Start the game and wait for GoElites to load.
 
+<div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Download [**GoElites Loader**](https://goelites.net/index.php?/forum/17-download-goelites/).
+<div class='square-box'><div class='square-content'><div><span>2</span></div></div></div> Run it and select the folder where you want GoElites to be installed.
+<div class="admonition tip">
+<p class="first admonition-title">Note</p>
+<p class="last">In order to avoid some issues we recommend you that the path to GoElites loader should only contain A-Z 1-9 characters in it.</p>
+</div>
+<div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Start **GoElites Loader** as administrator.
+<div class='square-box'><div class='square-content'><div><span>4</span></div></div></div> Log in to your GoElites account.
+<div class='square-box'><div class='square-content'><div><span>5</span></div></div></div> Wait for login window to shut down and command line with text ``Waiting for League of Legends.exe...`` to show up.
+<div class='square-box'><div class='square-content'><div><span>6</span></div></div></div> Start the game and wait for GoElites to load, it usually takes up to 10 seconds.

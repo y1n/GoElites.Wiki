@@ -88,4 +88,37 @@ h1, h2, h3, h4, h5, h6, legend {
     font-weight: 700;
 	font-style: italic;
     font-family: UniSans,"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-};
+}
+
+/* BOX WITH NUMBERS INSTEAD OF DECIMAL LIST */
+
+.square-box{
+    position: relative;
+    width: 30px;
+    overflow: hidden;
+    background: #343131;
+}
+.square-box:before{
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+.square-content{
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: white;
+}
+.square-content div {
+   display: table;
+   width: 100%;
+   height: 100%;
+}
+.square-content span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: white
+}
