@@ -5,7 +5,7 @@
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
-In GoElites, our greatest value is your experience as our community member. We strive to provide the best service by supplying you with easy-to-setup yet exceptionally efficient software and quick, professional support in case something goes wrong. You're also able to easily get in touch with other like-minded people in our community and find partners to play or even build friendship with. Regardless of what you're willing to do on GoElites (*within boundaries set in Community Guidelines*), we will do our best to make it worthwhile!
+In GoElites, our greatest value is your experience as our community member. We strive to provide the best service by supplying you with easy-to-setup yet exceptionally efficient software and quick, professional support in case something goes wrong. You're also able to easily get in touch with other like-minded people in our community and find partners to play or even build friendship with. Regardless of what you're willing to do on GoElites (<i>within boundaries set in Community Guidelines</i>), we will do our best to make it worthwhile!
 </p>
 </div>
 
@@ -16,7 +16,7 @@ In GoElites, our greatest value is your experience as our community member. We s
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
 <p class="last">
-Our software can currently only be ran on devices with Windows 7 or higher installed (*and which support .NET Framework 4*). You have to run emulator (*like Boot Camp for MacOS*) in order to be able to use our software on other operational systems.
+Our software can currently only be ran on devices with Windows 7 or higher installed (<i>and which support .NET Framework 4</i>). You have to run emulator (<i>like Boot Camp for MacOS</i>) in order to be able to use our software on other operational systems.
 </p>
 </div>
 
