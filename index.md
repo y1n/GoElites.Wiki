@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: "UniSans";
-  src: url(rtfd-css/UniSansHeavyItalic.otf) format("truetype");
+  src: url(rtfd-css/Uni%20Sans%20Heavy%20Italic.otf) format("truetype");
 }
 
 .good_announcement {
