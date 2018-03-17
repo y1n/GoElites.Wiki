@@ -87,7 +87,8 @@ h1, h2, h3, h4, h5, h6, legend {
     margin-top: 0;
     font-weight: 700;
 	font-style: italic;
-    font-family: UniSans,"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+    font-family: UniSans, sans-serif;
+	text-transform: uppercase;
 	color: #343131; /* COLOR BLACK TO EVERY HEADER */
 }
 
