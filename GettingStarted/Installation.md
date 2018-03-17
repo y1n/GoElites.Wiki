@@ -10,9 +10,8 @@ Before you jump to GoElites installation, please make sure that you have all of 
 This software is required to allow GoElites application to function properly. Without any of these components, even if you manage to run GoElites, it will most likely fail to function in some aspect or another. So before you submit a bug report, please make sure that everything listed above is in place on your computer.
 
 ## GoElites installation
-In order to install GoElites, providing that all of the prerequisites are installed, you need to do the following:
-
-<div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Download [**GoElites Loader**](https://goelites.net/index.php?/forum/17-download-goelites/).</br>
+In order to install GoElites, providing that all of the prerequisites are installed, you need to do the following:</br>
+<div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Download [**GoElites Loader**](https://goelites.net/index.php?/forum/17-download-goelites/).
 <div class='square-box'><div class='square-content'><div><span>2</span></div></div></div> Run it and select the folder where you want GoElites to be installed.</br>
 <div class="admonition tip">
 <p class="first admonition-title">Note</p>
