@@ -1,6 +1,6 @@
 *Here is a collection of questions that staff and helpful members get asked on daily basis. They are not troubleshooting-related so there are very few reliable sources where answers to these questions can be found. We will try to give comprehensive answers to most of them here!*
 
-### <font color="black">1</font>: How different is GoElites from other services out there?
+### 1: How different is GoElites from other services out there?
 
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
@@ -11,7 +11,7 @@ In GoElites, our greatest value is your experience as our community member. We s
 
 ---
 
-### <font color="black">2</font>: Can I use your software on my device?
+### 2: Can I use your software on my device?
 
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
@@ -22,7 +22,7 @@ Our software can currently only be ran on devices with Windows 7 or higher insta
 
 ---
 
-### <font color="black">3</font>: Can I help?
+### 3: Can I help?
 
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
@@ -33,7 +33,7 @@ Yes. If you come across someone who has encountered a problem you know how to so
 
 ---
 
-### <font color="black">4</font>: Will you release an API so other developers can release their scripts?
+### 4: Will you release an API so other developers can release their scripts?
 
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
@@ -44,7 +44,7 @@ Will happen eventually, but no ETA as of now.
 
 ---
 
-### <font color="black">5</font>: Is there any certain order for champion script releases? What champions should we expect next?
+### 5: Is there any certain order for champion script releases? What champions should we expect next?
 
 <div class="admonition tip">
 <p class="first admonition-title">Answer</p>
